@@ -4,13 +4,13 @@ import { getFirestore, collection, addDoc, getDocs, deleteDoc, doc, query, order
   from "https://www.gstatic.com/firebasejs/10.12.0/firebase-firestore.js";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAAHiHYuCFfRk-UkUMDCrGgNIIpZQGN6Go",
-  authDomain: "peswebb-98af2.firebaseapp.com",
-  projectId: "peswebb-98af2",
-  storageBucket: "peswebb-98af2.firebasestorage.app",
-  messagingSenderId: "876898601670",
-  appId: "1:876898601670:web:d7267d232f81ad9c45e5c7",
-  measurementId: "G-QY7DRCCD7Q"
+  apiKey: "AIzaSyBPDbwyktWwDr3JkTzzxjvQgnJjZqxpI2k",
+  authDomain: "apespilm.firebaseapp.com",
+  projectId: "apespilm",
+  storageBucket: "apespilm.firebasestorage.app",
+  messagingSenderId: "167342778038",
+  appId: "1:167342778038:web:b65f2708f579e5e6482817",
+  measurementId: "G-BG76TKF9M8"
 };
 
 let app, db;
